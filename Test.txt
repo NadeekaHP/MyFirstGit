@@ -5,3 +5,5 @@ It will not appear in the master.
 
 This is master
 It has the data regrding MyFirstBranch, because I mearged it
+
+These are changes done with my local machine
