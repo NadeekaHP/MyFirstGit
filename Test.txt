@@ -7,3 +7,4 @@ This is master
 It has the data regrding MyFirstBranch, because I mearged it
 
 These are changes done with my local machine
+I am doing another change to the file and try to commit
