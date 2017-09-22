@@ -3,6 +3,11 @@ Need to familier with Git
 This will be shown in the MyFirstBranch.
 It will not appear in the master.
 
+
 Now I merged MyFirstBranch with the master.
 So MyFirstBranch will be appread on the master
 This is MySecondBranch
+
+This is master
+It has the data regrding MyFirstBranch, because I mearged it
+
